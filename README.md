@@ -1,2 +1,2 @@
 # my projects mohirdev
-mushrooms dataset made by LogisticRegression, KNeighborsClassifier, DecisionTreeClassifier, RandomForestClassifier
+datasets made by LogisticRegression, KNeighborsClassifier, DecisionTreeClassifier, RandomForestClassifier
